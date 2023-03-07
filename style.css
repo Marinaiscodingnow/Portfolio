@@ -1,0 +1,30 @@
+.background{
+background-image: url('images/try2.png');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.link{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+color: aliceblue;
+
+}
+
+.but1{
+    margin-top: 30%;
+}
+
+.but2{
+    margin-top: 5%;
+    margin-left: 150%;
+    }
+
+
+
+
+ .but4{
+    
+        margin-left: 150%;
+        }
+    
