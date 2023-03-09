@@ -34,4 +34,27 @@ color: aliceblue;
 
 .backgrounds2{
     background-color: #041a2b;
- }
+}
+
+.nav-item{
+    color: #000000;
+    font-size: 170%;
+    font-family: 'Cutive Mono';
+}
+  
+.nav-linkactive{
+    color: #000000;
+   font-family: 'Cutive Mono';
+  }
+
+
+  .heading{
+    font-family: 'Cutive Mono';
+    color: aliceblue;
+    text-align: center;
+  }
+
+  .text{
+    font-family: 'Cutive Mono';
+    color: aliceblue;
+  }
