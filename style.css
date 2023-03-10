@@ -45,16 +45,44 @@ color: aliceblue;
 .nav-linkactive{
     color: #000000;
    font-family: 'Cutive Mono';
-  }
+}
 
-
-  .heading{
+.heading{
     font-family: 'Cutive Mono';
     color: aliceblue;
     text-align: center;
-  }
+}
 
-  .text{
+  
+.text{
     font-family: 'Cutive Mono';
     color: aliceblue;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px dashed #94d1ff27;
+    float: left;
+    width: 400px;
+}
+  
+ 
+div.gallery:hover {
+    border: 1px dashed #86a8e9;
+}
+  
+  
+div.gallery img {
+    width: 400px;
+    height: 320px;
+    padding: 5px;
+}
+  
+  
+div.desc {
+    font-size: 110%;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Cutive Mono';
   }
