@@ -51,12 +51,15 @@ color: aliceblue;
     font-family: 'Cutive Mono';
     color: aliceblue;
     text-align: center;
+    text-decoration: underline dashed;
+    text-decoration-thickness: 2px;
 }
 
   
 .text{
     font-family: 'Cutive Mono';
     color: aliceblue;
+    margin: 3px;
 }
 
 
